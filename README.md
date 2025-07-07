@@ -1,4 +1,7 @@
 # GiantTransmonMolecules
+
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.15829677.svg)](https://doi.org/10.5281/zenodo.15829677)
+
 These are the codes used to plot every figure of the article.
 
 "SinglePhotonTransmission.j" replicates fig 2(b)-(c), computing Infidelities and transmission and reflection of single photon pulses with an exact transfer matrix formalism.
