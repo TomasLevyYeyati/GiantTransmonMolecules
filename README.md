@@ -1,5 +1,5 @@
 # GiantTransmonMolecules
-These are the codes used to plot avery figure of the article.
+These are the codes used to plot every figure of the article.
 "SinglePhotonTransmission.j" replicates fig 2(b)-(c), computing Infidelities and transmission and reflection of single photon pulses with an exact transfer matrix formalism.
 "TwoPhotonTransmission.jl" replicates fig 3(a), computing the Two photon transmission in the chiral regime with the SLH formalism, for different input bandwidths and number of molecules and molecular anharmonicities U.
 "TwoPhotonTransmissionScalingU.jl" replicates fig 3(b), with the same structure of "TwoPhotonTransmission.jl", but for a given number of molecules and bandwiths, changing U.
